@@ -1,7 +1,7 @@
 package com.car.rent;
- 
+
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.PropertySource;  
+import org.springframework.context.annotation.PropertySource;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
